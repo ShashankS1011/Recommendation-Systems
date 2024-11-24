@@ -1,7 +1,3 @@
-Here’s a comprehensive and well-structured **README.md** file for your GitHub repository:  
-
----
-
 # Collaborative Filtering with BERT Fine-Tuned Using ALS  
 
 This repository presents a hybrid recommendation system that combines **Collaborative Filtering** with **BERT** embeddings and fine-tunes the model using **Alternating Least Squares (ALS)**. The approach bridges user-item interaction data with semantic insights from text to deliver personalized and context-aware recommendations.  
