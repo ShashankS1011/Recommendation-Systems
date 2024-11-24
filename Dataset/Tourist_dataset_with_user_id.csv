@@ -1,0 +1,88 @@
+﻿user_id,Name of the Place,Type of Place,State,Ratings
+0,Kanheri Caves,Historical Places,Maharashtra,4.7
+0,Raja's Seat,Historical Places,Karnataka,4.6
+0,Hampi Archaeological Sites,Historical Places,Karnataka,4.8
+0,Athirappilly Waterfalls,Waterfalls,Kerala,4.8
+0,Kuttanadu Backwaters,Waterways,Kerala,4.7
+1,Munnar Tea Museum,Museums,Kerala,4.7
+1,Kumarakom Bird Sanctuary,Bird Sanctuary,Kerala,4.8
+1,Loktak Lake,Lakes,Manipur,4.8
+1,Imphal War Cemetery,Historical Places,Manipur,4.7
+1,Ningthoukhong Lake,Lakes,Manipur,4.6
+2,Sivasagar,Historical Places,Assam,4.7
+2,Jorhat Museum,Museums,Assam,4.6
+2,Mahatma Gandhi Museum,Museums,Gujarat,4.7
+2,Gir National Park,National Parks,Gujarat,4.8
+2,Rani ki Vav,Historical Places,Gujarat,4.7
+3,Sardar Patel Museum,Museums,Gujarat,4.6
+3,Sardar Patel National Museum,Museums,Gujarat,4.8
+3,Daman and Diu Beaches,Beaches,Daman and Diu,4.7
+3,Moti Daman Fort,Historical Places,Daman and Diu,4.8
+3,Mount Abu Wildlife Sanctuary,National Parks,Rajasthan,4.7
+4,Nakki Lake,Lakes,Rajasthan,4.6
+4,Ranakpur Jain Temple,Religious Places,Rajasthan,4.8
+4,Amer Fort,Historical Places,Rajasthan,4.8
+4,Birla Mandir,Religious Places,Rajasthan,4.7
+4,Khimsar Fort,Historical Places,Rajasthan,4.7
+5,Dilwara Temples,Religious Places,Rajasthan,4.8
+5,Jantar Mantar,Historical Places,Rajasthan,4.7
+5,Neemrana Fort,Historical Places,Rajasthan,4.8
+5,Kumbhalgarh Fort,Historical Places,Rajasthan,4.8
+5,Gagron Fort,Historical Places,Rajasthan,4.7
+6,Rajasthan State Museum,Museums,Rajasthan,4.6
+6,Hawa Mahal,Historical Places,Rajasthan,4.6
+6,Jaisalmer Havelis,Historical Places,Rajasthan,4.8
+6,Amber Fort,Historical Places,Rajasthan,4.8
+6,Taragarh Fort,Historical Places,Rajasthan,4.7
+7,Sisodia Rani Palace,Historical Places,Rajasthan,4.7
+7,Chand Baori,Historical Places,Rajasthan,4.8
+7,Mandawa Havelis,Historical Places,Rajasthan,4.8
+7,Hawa Mahal,Historical Places,Rajasthan,4.6
+7,Lake Palace,Famous Buildings,Rajasthan,4.8
+8,Chittorgarh Fort,Historical Places,Rajasthan,4.7
+8,Taragarh Fort,Historical Places,Rajasthan,4.6
+8,"Fort Palace, Jaipur",Famous Buildings,Rajasthan,4.7
+8,Rishikesh Ashrams,Religious Places,Uttarakhand,4.7
+8,Kempty Falls,Waterfalls,Uttarakhand,4.8
+9,Mussourie Hill Station,Hill Stations,Uttarakhand,4.8
+9,Rajaji National Park,National Parks,Uttarakhand,4.7
+9,Jim Corbett National Park,National Parks,Uttarakhand,4.8
+9,Dhanaulti Hill Station,Hill Stations,Uttarakhand,4.7
+9,Nainital Lake,Lakes,Uttarakhand,4.8
+10,Shimla Ridge,Hill Stations,Himachal Pradesh,4.8
+10,Solan Brewery,Cultural Places,Himachal Pradesh,4.7
+10,Kasauli Brewery,Cultural Places,Himachal Pradesh,4.8
+10,Dharmshala Monastery,Religious Places,Himachal Pradesh,4.8
+10,St. John in the Wilderness,Religious Places,Himachal Pradesh,4.7
+11,Rohtang Pass,Hill Stations,Himachal Pradesh,4.8
+11,Keylong,Hill Stations,Himachal Pradesh,4.7
+11,Kangra Fort,Historical Places,Himachal Pradesh,4.8
+11,Naag Temple,Religious Places,Himachal Pradesh,4.7
+11,Nahan Hill Station,Hill Stations,Himachal Pradesh,4.6
+12,Pragati Maidan,Cultural Places,Delhi,4.7
+12,National Museum,Museums,Delhi,4.6
+12,National Gallery of Modern Art,Museums,Delhi,4.8
+12,India Habitat Centre,Cultural Places,Delhi,4.7
+12,Lotus Temple,Religious Places,Delhi,4.8
+13,Humayun's Tomb,Historical Places,Delhi,4.7
+13,Qutub Minar,Historical Places,Delhi,4.6
+13,Raj Ghat,Memorials,Delhi,4.7
+13,Gandhi Smriti Museum,Museums,Delhi,4.8
+13,Red Fort Museum,Museums,Delhi,4.7
+14,Lotus Temple,Religious Places,Delhi,4.8
+14,Akshardham Temple,Religious Places,Delhi,4.7
+14,Sufi Shrine of Hazrat Nizamuddin Auliya,Religious Places,Delhi,4.8
+14,Rashtrapati Bhavan,Famous Buildings,Delhi,4.8
+14,Delhi Haat,Cultural Places,Delhi,4.7
+15,Humayun's Tomb,Historical Places,Delhi,4.8
+15,India Gate,Memorials,Delhi,4.5
+15,Gandhi Museum,Museums,Delhi,4.8
+15,Taj Mahal,Historical Places,Uttar Pradesh,4.8
+15,Agra Fort,Historical Places,Uttar Pradesh,4.7
+16,Fatehpur Sikri,Historical Places,Uttar Pradesh,4.8
+16,Kashi Vishwanath Temple,Religious Places,Uttar Pradesh,4.8
+16,Varanasi Ghats,Religious Places,Uttar Pradesh,4.8
+16,Chunar Fort,Historical Places,Uttar Pradesh,4.6
+16,Sarnath Stupa,Religious Places,Uttar Pradesh,4.8
+17,Kanpur Zoo,Zoo,Uttar Pradesh,4.7
+17,Jhansi Fort,Historical Places,Uttar Pradesh,4.6
